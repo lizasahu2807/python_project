@@ -4,6 +4,7 @@ Big Basket is one of India’s largest online grocery stores, offering a wide ra
 This analysis aims to explore product data from Big Basket, focusing on various factors such as price, categories, and consumer ratings.
 
 key features :
+
 1.Variety of Products: Big Basket offers a wide range of products, from fresh fruits and vegetables to packaged foods, beverages, personal care, household items, and even gourmet and organic food products. 
 
 2.Fast Delivery: One of the company's unique selling points is its same-day or next-day delivery service, providing convenience to customers who may need their groceries urgently. 
